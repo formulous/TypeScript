@@ -1,4 +1,4 @@
-# TypeScript_textbook
+# TypeScript 
 
 ## 초과 프로퍼티 검사
 ```javascript
